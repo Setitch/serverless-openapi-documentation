@@ -1,3 +1,6 @@
+# Important
+  This is a copy from @apalchys branch, but with added change from https://github.com/bwp91/serverless-openapi-documentation (adding support for documentation field in http part of documentation)
+
 # Serverless OpenAPI Documentation Plugin
 
 [![NPM](https://img.shields.io/npm/v/serverless-openapi-documentation.svg)](https://npmjs.org/packages/serverless-openapi-documentation/)
