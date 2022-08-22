@@ -5,12 +5,12 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/apalchys/serverless-openapi-documentation"
+    "url": "https://github.com/setitch/serverless-openapi-documentation"
   },
   "files": [
     "dist"
   ],
-  "bugs": "https://github.com/apalchys/serverless-openapi-documentation/issues",
+  "bugs": "https://github.com/setitch/serverless-openapi-documentation/issues",
   "author": "Andrei Palchys <andrei@palchys.com>",
   "contributors": [
     "Andrei Palchys <andrei@palchys.com>",
